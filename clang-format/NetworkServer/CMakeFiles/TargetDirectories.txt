@@ -1,0 +1,3 @@
+/home/momcilo/14-jamb/code/NetworkServer/CMakeFiles/rebuild_cache.dir
+/home/momcilo/14-jamb/code/NetworkServer/CMakeFiles/edit_cache.dir
+/home/momcilo/14-jamb/code/NetworkServer/CMakeFiles/server.dir
